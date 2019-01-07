@@ -1,2 +1,1 @@
-# personalsite
-Building out personal website
+Building out a personal cv/blog site
